@@ -2,6 +2,9 @@
 This is rewrited version of Scott1903's Satisfactory Planner
 https://github.com/Scott1903/satisfactory_planner
 
+The file guidearpygui.py is the rewrited version of his gui.py
+Mainly changed the GUI platform from PySimpleGUI to DearPyGui
+
 ## Applying Satisfactory Updates
 
 `read_docs.py` in Data folder requires that `/Path/To/Satisfactory/CommunityResources/Docs/Docs.json` (these will be coded for your locale, e.g. `en-GB` - pick the matching one) is present in the project directory.
