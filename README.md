@@ -1,4 +1,6 @@
-# Satisfactory Planner
+# Satisfactory Planner V2
+This is rewrited version of Scott1903's Satisfactory Planner
+https://github.com/Scott1903/satisfactory_planner
 
 ## Applying Satisfactory Updates
 
