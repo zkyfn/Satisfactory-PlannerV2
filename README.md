@@ -1,6 +1,7 @@
 # Satisfactory Planner V2
 This is rewrited version of Scott1903's Satisfactory Planner
-https://github.com/Scott1903/satisfactory_planner
+
+[Here](https://github.com/Scott1903/satisfactory_planner)is the origenal version
 
 The file guidearpygui.py is the rewrited version of his gui.py
 Mainly changed the GUI platform from PySimpleGUI to DearPyGui
